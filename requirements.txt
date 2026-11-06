@@ -1,0 +1,18 @@
+# Core
+torch
+transformers
+sentencepiece
+huggingface_hub
+pandas
+numpy
+scipy
+tqdm
+# Data download and evaluation
+gdown
+sacrebleu
+rouge-score
+bert-score
+# Telegram bot
+pyTelegramBotAPI
+# Install separately without dependencies (as in the notebooks):
+#   pip install --no-deps indobenchmark-toolkit

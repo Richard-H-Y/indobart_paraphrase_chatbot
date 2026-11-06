@@ -1,0 +1,17 @@
+# Secrets: never commit these
+.env
+*.env
+!.env.example
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# Large or third-party files kept out of git
+raw/
+data/
+*.pt
+*.bin
+*.safetensors
+checkpoints/
