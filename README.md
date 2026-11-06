@@ -11,15 +11,12 @@ Code, and results for the paper **"Diagnosing and Mitigating Extractive-Compress
 | **Name** | Viny Christanti Mawardi |
 | **University** | Universitas Tarumanagara (UNTAR), Jakarta |
 | **Email** |  `vinym@fti.untar.ac.id` |
-
 | **Name** | Richard Harris Yuwono |
 | **University** | Universitas Tarumanagara (UNTAR), Jakarta |
 | **Email** |  `richard.535250058@stu.untar.ac.id` |
-
 | **Name** | Khresnanda Putra Wirawan |
 | **University** | Universitas Tarumanagara (UNTAR), Jakarta |
 | **Email** |  `khresnanda.535250071@stu.untar.ac.id` |
-
 | **Name** | Elysia Nyoman |
 | **University** | Universitas Tarumanagara (UNTAR), Jakarta |
 | **Email** |  `elysia.535250056@stu.untar.ac.id` |
