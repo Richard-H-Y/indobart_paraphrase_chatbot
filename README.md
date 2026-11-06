@@ -4,7 +4,7 @@ Code, and results for the paper **"Diagnosing and Mitigating Extractive-Compress
 
 > *Summary:* Fine-tuning IndoBART on an Indonesian paraphrase corpus tends to cause the model to shorten input sentences and copy them verbatim. This repository contains notebook for deploying the model as a Telegram chatbot.
 
-## Author
+## Authors
 
 | | |
 |---|---|
